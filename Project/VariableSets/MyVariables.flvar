@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultVariableSet>
   <Variable
     Comment=""
@@ -13,4 +13,34 @@
   <Variable
     Name="Year"
     Comment="">2014</Variable>
+  <Variable
+    Name="on build"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2015-01-28T12:07:29.0374458-08:00">hh mm yyy</Variable>
+  <Variable
+    Name="manually"
+    Comment=""
+    Type="DateTimeManual"
+    LastUpdated="2015-01-28T12:07:54.1294458-08:00">hh mm yyyy</Variable>
+  <Variable
+    Name="file creation"
+    Comment=""
+    Type="DateTimeFileCreated"
+    LastUpdated="2015-01-28T12:08:19.8334458-08:00">hh mm yyyy</Variable>
+  <Variable
+    Name="NewDateTimeVariable"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2015-01-28T12:08:40.3764458-08:00" />
+  <Variable
+    Name="file save"
+    Comment=""
+    Type="DateTimeFileSaved"
+    LastUpdated="2015-01-28T12:08:40.6064458-08:00">hh mm yyyy</Variable>
+  <Variable
+    Name="project save"
+    Comment=""
+    Type="DateTimeProjectSaved"
+    LastUpdated="2015-01-28T12:09:00.7114458-08:00">hh mm yyyy</Variable>
 </CatapultVariableSet>

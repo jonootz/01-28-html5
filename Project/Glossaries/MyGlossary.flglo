@@ -1,9 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultGlossary>
-	<GlossaryEntry>
-		<Terms>
-			<Term>My Term</Term>
-		</Terms>
-		<Definition>My definition</Definition>
-	</GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>My Term</Term>
+    </Terms>
+    <Definition>My definition</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>content</Term>
+    </Terms>
+    <Definition>Lots of interesting stuff</Definition>
+  </GlossaryEntry>
 </CatapultGlossary>
