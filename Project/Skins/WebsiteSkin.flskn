@@ -15,7 +15,7 @@
   UseBrowserDefaultSize="True"
   UseDefaultBrowserSetup="True"
   RemoveImagesOnSave="true"
-  EnableResponsiveOutput="true">
+  EnableResponsiveOutput="false">
   <Stylesheet>
     <Styles>
       <Style
